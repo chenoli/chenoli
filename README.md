@@ -1,9 +1,18 @@
-                                                                 /.    # Carlos Henrique
+# 👋 Hi, I'm Carlos Henrique
 
-## Olá, pessoal
-Sou um FullStack Developer :computer:
-<br/><br/>
-<br/> :computer: &nbsp; Minha stack atual é ReactJS, Node.js, React Native & Typescript <br/>
-<br/> :iphone: &nbsp; &nbsp; Experiência em desenvolvimento nativo <br/>
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chenoli/)](https://www.linkedin.com/in/chenoli/) 
-[![Gmail Badge](https://img.shields.io/badge/-hello@chenoli.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenoli.dev@gmail.com)](mailto:hello@chenoli.com.br) <br/>
+## About Me
+I'm a FullStack Developer 💻 with over 9 years of experience building scalable web and mobile applications.
+
+I specialize in React, React Native, and Node.js, with strong experience in TypeScript and modern development practices. I also have a solid background in native mobile development (Android), which allows me to bridge the gap between native and cross-platform solutions when needed.
+
+Currently, I work as a Tech Lead, responsible for designing and architecting applications end-to-end — from defining the codebase and best practices to deployment and scalability. I have experience working with complex systems, integrations, and microfrontend architectures.
+
+## 🚀 Tech Stack
+- Frontend: React, React Native
+- Backend: Node.js, C#
+- Mobile: Android (Kotlin/Java)
+- Language: TypeScript
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/chenoli/
+- Email: hello@chenoli.com.br
